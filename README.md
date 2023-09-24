@@ -1,7 +1,7 @@
 <h1 align="center">Open Source Programs</h1>
 
-<a href="https://linkedin.com/in/imtiyaz-sde/">
- <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="50" height="50">
+<a href="https://www.linkedin.com/in/codewithrishav/">
+ <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="50" height="50" align = 'right'>
 </a>
 
 
